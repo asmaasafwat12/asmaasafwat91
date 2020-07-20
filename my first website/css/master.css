@@ -191,7 +191,7 @@ width:70%;
     .links-container .toggle-links{display:inline-block;}
     .links-container .links{display: none;}
     .links-container .links.open{
-           background-color: #b1a89d85;
+               background-color: #b1a89d85;
     width: 64.3%;
     display: block;
     position: absolute;
