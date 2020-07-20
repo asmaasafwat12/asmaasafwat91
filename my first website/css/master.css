@@ -191,13 +191,13 @@ width:70%;
     .links-container .toggle-links{display:inline-block;}
     .links-container .links{display: none;}
     .links-container .links.open{
-        background-color: #c0c1c169;
-        width:100%;
-        display:block;
-        position: absolute;
-        left: 0;
-        top: 83px;
-        padding-bottom: 18px;
+           background-color: #b1a89d85;
+    width: 64.3%;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 57px;
+    padding-bottom: 18px;
         
     }
     .links-container .links.open li{ 
